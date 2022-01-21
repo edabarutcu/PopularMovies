@@ -1,0 +1,6 @@
+framework module Pods_TrendingMovies {
+  umbrella header "Pods-TrendingMovies-umbrella.h"
+
+  export *
+  module * { export * }
+}
